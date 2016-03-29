@@ -1,0 +1,4 @@
+services:
+#    redes.example:
+#        class: RedesBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
